@@ -1,0 +1,13 @@
+C:\Users\Robot\Pictures\Programming\C#\Snake\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+C:\Users\Robot\Pictures\Programming\C#\Snake\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+C:\Users\Robot\Pictures\Programming\C#\Snake\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+C:\Users\Robot\Pictures\Programming\C#\Snake\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+C:\Users\Robot\Pictures\Programming\C#\Snake\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+C:\Users\Robot\Pictures\Programming\C#\Snake\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\Robot\Pictures\Programming\C#\Snake\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.csprojAssemblyReference.cache
+C:\Users\Robot\Pictures\Programming\C#\Snake\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+C:\Users\Robot\Pictures\Programming\C#\Snake\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+C:\Users\Robot\Pictures\Programming\C#\Snake\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Robot\Pictures\Programming\C#\Snake\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+C:\Users\Robot\Pictures\Programming\C#\Snake\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\Robot\Pictures\Programming\C#\Snake\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache
